@@ -1,6 +1,6 @@
 package org.example;
 
-class DruKitTestDrive {
+class DrumKitTestDrive {
 
     public static void main(String[] args) {
 
